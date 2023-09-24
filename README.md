@@ -3,12 +3,6 @@
 
 Become a Machine Learning expert. Put your machine learning knowledge to work, and expand your production engineering capabilities and begin to turn your ideas into realities.
 
-### My Scores
-- [Course 1 - Introduction to Machine Learning in Production: 100%](pics/MLOPs-intro.png)
-- [Course 2 - Machine Learning Data Life Cycle in Production: 100%](pics/MLOPs-data.png)
-- [Course 3 - Machine Learning Modelling Pipelines in Production: 100%](pics/MLOPs-pipelines.png)
-- [Course 4 - Welcome to Deploying Machine Learning Models in Production: 98%](pics/MLOPs-deployment.png)
-
 ## Course Structure
 Each course is spread out in weeks, and are made up of video slides, lab sessions, quizzes, assignments, related course materials, code and data
 
@@ -140,3 +134,4 @@ Each course is spread out in weeks, and are made up of video slides, lab session
 
 ## Disclaimer
 The solutions presented are intended to serve as reference for other learners who enroll in this course.
+Solutions are adapted from [John Moses' repo](https://github.com/johnmoses/coursera-mlops-specialization).
