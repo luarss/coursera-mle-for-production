@@ -1,3 +1,14 @@
+# C1W2
+CUB_200_2011.tar
+history-augmented/
+history-balanced/
+history-imbalanced/
+kagglecatsanddogs_3367a.zip
+model-augmented/
+model-balanced/
+model-imbalanced/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
