@@ -11,6 +11,12 @@ model-imbalanced/
 # macOS
 .DS_Store
 
+# C2W1
+pipeline/
+
+# C2W2
+SeoulBikeData2.csv
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
