@@ -17,6 +17,9 @@ pipeline/
 # C2W2
 SeoulBikeData2.csv
 
+# C2W3
+*/Week3/data/*
+schema.pbtxt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
