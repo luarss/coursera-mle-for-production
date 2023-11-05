@@ -26,6 +26,12 @@ transform_dir/
 WISDM_ar_v1.1/
 cifar10/
 
+# C3W1
+kt_dir
+kt_dir_bonus
+tempdir
+fmnist/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
