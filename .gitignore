@@ -21,6 +21,11 @@ SeoulBikeData2.csv
 */Week3/data/*
 schema.pbtxt
 
+# C2W4
+transform_dir/
+WISDM_ar_v1.1/
+cifar10/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
