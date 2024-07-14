@@ -4,11 +4,13 @@
 Become a Machine Learning expert. Put your machine learning knowledge to work, and expand your production engineering capabilities and begin to turn your ideas into realities.
 
 ## Setup
+- Prerequisites: Python 3.10, [gsutil](https://cloud.google.com/storage/docs/gsutil_install)
 - Create a new virtual environment and install `requirements.txt` within each week.
-- Prerequisites: Python 3.10
 
 ## TODO
-* Check the `requirements.txt` for each file. Also, see if we can use one environment for every week. Then remove the need for conda setup for individual week. 
+- [ ] Ansible playbook for setting one common env + prereqs. 
+- [ ] Optional prereq: graphviz? 
+- [ ] Work with outdated apis for now. Some stuff like `layers.DenseFeatures` are deprecated. 
 
 ## Course Structure
 Each course is spread out in weeks, and are made up of video slides, lab sessions, quizzes, assignments, related course materials, code and data
