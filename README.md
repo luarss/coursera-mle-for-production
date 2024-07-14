@@ -3,12 +3,9 @@
 
 Become a Machine Learning expert. Put your machine learning knowledge to work, and expand your production engineering capabilities and begin to turn your ideas into realities.
 
-## Conda Setup
-Navigate to each course's week folder. Example `C1-..../Week2` and execute:
-```
-# Enter the name of the environment when prompted
-../../create_new_env.sh
-```
+## Setup
+- Create a new virtual environment and install `requirements.txt` within each week.
+- Prerequisites: Python 3.10
 
 ## TODO
 * Check the `requirements.txt` for each file. Also, see if we can use one environment for every week. Then remove the need for conda setup for individual week. 
