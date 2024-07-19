@@ -40,6 +40,8 @@ HTRU_2.arff
 HTRU_2.csv
 HRTU2.zip
 Readme.txt
+*.tflite
+*.h5
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

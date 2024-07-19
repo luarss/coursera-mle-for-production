@@ -11,6 +11,7 @@ Become a Machine Learning expert. Put your machine learning knowledge to work, a
 - [ ] Ansible playbook for setting one common env + prereqs. 
 - [ ] Optional prereq: graphviz? 
 - [ ] Work with outdated apis for now. Some stuff like `layers.DenseFeatures` are deprecated. 
+- [ ] remove apt-get, use zipfile inbuilt pymodule for unzip. 
 
 ## Course Structure
 Each course is spread out in weeks, and are made up of video slides, lab sessions, quizzes, assignments, related course materials, code and data
