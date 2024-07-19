@@ -35,6 +35,12 @@ kt_dir_bonus
 tempdir
 fmnist/
 
+# C3W2
+HTRU_2.arff
+HTRU_2.csv
+HRTU2.zip
+Readme.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
