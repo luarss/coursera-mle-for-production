@@ -1,0 +1,6 @@
+tensorflow==2.13.0
+matplotlib==3.9.1
+pandas==2.2.2
+seaborn==0.13.2
+tensorflow_datasets==4.9.6
+pydot==3.0.1

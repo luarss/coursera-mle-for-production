@@ -9,9 +9,11 @@ Become a Machine Learning expert. Put your machine learning knowledge to work, a
 
 ## TODO
 - [ ] Ansible playbook for setting one common env + prereqs. 
+- [ ] Ansible for setting up paperspace nvidia
 - [ ] Optional prereq: graphviz? 
 - [ ] Work with outdated apis for now. Some stuff like `layers.DenseFeatures` are deprecated. 
 - [ ] remove apt-get, use zipfile inbuilt pymodule for unzip. 
+- [ ] Either use py3.12 or `conda install -c conda-forge --name <env> --update-deps --force-reinstall ipykernel -y`
 
 ## Course Structure
 Each course is spread out in weeks, and are made up of video slides, lab sessions, quizzes, assignments, related course materials, code and data
