@@ -10,6 +10,7 @@ kagglecatsanddogs_3367a.zip
 model-augmented/
 model-balanced/
 model-imbalanced/
+model-augmented-10epochs
 
 # macOS
 .DS_Store
