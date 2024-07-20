@@ -1,0 +1,13 @@
+ipykernel
+opencv-python==4.5.3.56
+matplotlib
+numpy
+cvlib==0.2.6
+protobuf<3.20
+fastapi
+pandas
+seaborn
+fastapi
+uvicorn
+tensorflow==2.7.0
+python-multipart
