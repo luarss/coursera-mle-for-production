@@ -17,6 +17,7 @@ model-augmented-10epochs
 
 # C2W1
 pipeline/
+slice_sample.csv
 
 # C2W2
 SeoulBikeData2.csv
