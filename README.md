@@ -14,6 +14,7 @@ Become a Machine Learning expert. Put your machine learning knowledge to work, a
 - [ ] Work with outdated apis for now. Some stuff like `layers.DenseFeatures` are deprecated. 
 - [ ] remove apt-get, use zipfile inbuilt pymodule for unzip. 
 - [ ] Either use py3.12 or `conda install -c conda-forge typing-extensions=4.12 -y --force-reinstall`
+- [ ] Remove all requirements.txt within each week.
 
 ## Course Structure
 Each course is spread out in weeks, and are made up of video slides, lab sessions, quizzes, assignments, related course materials, code and data
